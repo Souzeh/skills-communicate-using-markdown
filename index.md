@@ -3,8 +3,7 @@
 ### MUY BIEN
 ###### GRACIAS
 
-
-# YAKOKAT IMAGEN
+! [Image of Yakokat]
 <img width="896" height="896" alt="68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f79616b746f6361742e706e67" src="https://github.com/user-attachments/assets/48db04e7-5acf-4b4c-a40b-5e0218ed0c4a" />
 
 
@@ -20,6 +19,7 @@
 
 
 #### HE PRACTICADO LOS DIFERENTES TAMAÑOS DE TEXTO CON LAS ALMOHADILLAS CON UN MIN DE 1 (EL MAS GRANDE) Y UN MAX DE 6 (EL MAS PEQUEÑO).
+
 
 
 
